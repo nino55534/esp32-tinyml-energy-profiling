@@ -50,7 +50,7 @@ results/
 ├── power_measurements/ Raw PPK2 capture files (open with the nRF Connect Power Profiler app)
 ├── ukupna_potrosnja.png   Total active-cycle energy per configuration
 └── esp32_work_cycle.svg   Duty cycle diagram
-docs/                   Thesis PDF, defense presentation, assignment description
+docs/                   Thesis PDF, defense presentation
 ```
 
 ## Building the firmware
